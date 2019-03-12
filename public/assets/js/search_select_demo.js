@@ -1,0 +1,1 @@
+var handleSelect2=function(){$(".default-select2").select2();$(".multiple-select2").select2({placeholder:"Select Recipients"})},FormPlugins=function(){return{init:function(){handleSelect2()}}}();

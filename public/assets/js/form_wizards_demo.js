@@ -1,0 +1,1 @@
+var handleBootstrapWizards=function(){$("#wizard").bwizard()},FormWizard=function(){return{init:function(){handleBootstrapWizards()}}}();
